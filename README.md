@@ -15,8 +15,7 @@
 
 Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia 🇮🇩. Passionate about bridging the gap between web programming and creative visual design.
 
-<a href="#"><img align="right" src="https://raw.githubusercontent.com/ABS-13/ABS-13/master/images/duck.gif" width="200" height="200" /></a>
-
+<a href="#"><img align="right" src="https://github.com/Ghostbusterpopeye/ghostbusterpopeye/blob/main/pato-aaa.gif" width="200" height="200" /></a>
 ## ⚡ About Me
 * 🌱 Currently learning: **Full-stack web development (PHP, MySQL, JavaScript), Git workflows, and advanced 3D modeling.**
 * 👨‍💻 Working on: **Visitor System for UPA TIK Polije & TEFA Canning Polije.**

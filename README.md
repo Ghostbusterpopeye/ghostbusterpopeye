@@ -16,15 +16,15 @@
 Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia 🇮🇩. Passionate about bridging the gap between web programming and creative visual design.
 
 <a href="#"><img align="right" src="https://github.com/Ghostbusterpopeye/ghostbusterpopeye/blob/main/pato-aaa.gif" width="200" height="200" /></a>
-## ⚡ About Me
-* 🌱 Currently learning: **Full-stack web development (PHP, MySQL, JavaScript), Git workflows, and advanced 3D modeling.**
-* 👨‍💻 Working on: **Visitor System for UPA TIK Polije & TEFA Canning Polije.**
-* 🎨 Creative focus: **UI/UX Design, Motion Graphics, and Vector Illustration.**
-* ⚡ Fun fact: I often spend more time tweaking CSS for pixel-perfect details than writing the actual functional logic.
+## About Me
+*  Currently learning: **Full-stack web development (PHP, MySQL, JavaScript), Git workflows, and advanced 3D modeling.**
+*  Working on: **Visitor System for UPA TIK Polije & TEFA Canning Polije.**
+*  Creative focus: **UI/UX Design, Motion Graphics, and Vector Illustration.**
+*  Fun fact: I often spend more time tweaking CSS for pixel-perfect details than writing the actual functional logic.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin:4px" alt="html5">
@@ -39,7 +39,7 @@ Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia 🇮�
 
 ---
 
-## ⛳ GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghostbusterpopeye&show_icons=true&theme=dark" alt="stats" width="375" />

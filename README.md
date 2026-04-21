@@ -41,7 +41,7 @@ Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia 🇮�
 
 ## ⛳ GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ghostbusterpopeye&show_icons=true&theme=dark" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostbusterpopeye&theme=dark" alt="streak" />
 </p>

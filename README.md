@@ -48,7 +48,25 @@ Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia 🇮�
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ghostbusterpopeye&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+
+---
+
+## Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Alayubi%20Sultan&color=000000">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000">
 </p>
+

@@ -1,6 +1,6 @@
 <h1 align="center">Alayubi Sultan</h1>
 <p align="center">Informatics Engineering Student & Creative Developer</p>
-<a href="#"><img align="right" src="https://github.com/Ghostbusterpopeye/ghostbusterpopeye/blob/main/pato-aaa.gif" width="15" height="15" /></a>
+<a href="#"><img align="right" src="https://github.com/Ghostbusterpopeye/ghostbusterpopeye/blob/main/pato-aaa.gif" width="70" height="70" /></a>
 
 <p align="center">
   <a href="http://kongming13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -13,15 +13,15 @@
 
 Focusing on full-stack web development and creative visual design. Currently developing visitor systems for Polije and exploring 3D workflows.
 
-* **Tech:** PHP, MySQL, JavaScript, Git
+* **Tech:** Laravel, Flutter, PHP, MySQL, JavaScript, Git
 * **Design:** UI/UX, Motion Graphics, Blender, Photoshop
 
 ---
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,ps,blender&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,laravel,flutter,css,js,php,mysql,figma,ps,blender&theme=dark" />
 </p>
 
 ---

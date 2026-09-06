@@ -1,5 +1,6 @@
 <h1 align="center">Alayubi Sultan</h1>
 <p align="center">Informatics Engineering Student & Creative Developer</p>
+<a href="#"><img align="right" src="https://github.com/Ghostbusterpopeye/ghostbusterpopeye/blob/main/pato-aaa.gif" width="15" height="15" /></a>
 
 <p align="center">
   <a href="http://kongming13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -28,7 +29,6 @@ Focusing on full-stack web development and creative visual design. Currently dev
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghostbusterpopeye&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostbusterpopeye&theme=tokyonight&hide_border=true" height="150" />
 </p>
 

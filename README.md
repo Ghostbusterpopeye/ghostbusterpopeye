@@ -1,73 +1,45 @@
-<h1 align="center">Hi there, I'm <a href="http://kongming13.vercel.app/" target="_blank">Alayubi Sultan</a> <img src="https://raw.githubusercontent.com/ABS-13/ABS-13/master/images/Hi.gif" height="32" /></h1>
-
-<br />
-
-<p align="center">
-  <a href="http://kongming13.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
-  </a>
-  <a href="mailto:alayubisultan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-  </a>
-</p>
-
-<br />
-
-Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia 🇮🇩. Passionate about bridging the gap between web programming and creative visual design.
-
-<a href="#"><img align="right" src="https://github.com/Ghostbusterpopeye/ghostbusterpopeye/blob/main/pato-aaa.gif" width="200" height="200" /></a>
-## About Me
-*  Currently learning: **Full-stack web development (PHP, MySQL, JavaScript), Git workflows, and advanced 3D modeling.**
-*  Working on: **Visitor System for UPA TIK Polije & TEFA Canning Polije.**
-*  Creative focus: **UI/UX Design, Motion Graphics, and Vector Illustration.**
-*  Fun fact: I often spend more time tweaking CSS for pixel-perfect details than writing the actual functional logic.
-
----
-
-##  Tech Stack
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin:4px" alt="html5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="margin:4px" alt="css3">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin:4px" alt="javascript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" style="margin:4px" alt="php">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" style="margin:4px" alt="mysql">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" style="margin:4px" alt="figma">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="40" style="margin:4px" alt="photoshop">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" height="40" style="margin:4px" alt="blender">
-</p>
-
----
-
-##  GitHub Stats
+<h1 align="center">Alayubi Sultan</h1>
+<p align="center">Informatics Engineering Student & Creative Developer</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghostbusterpopeye&show_icons=true&theme=dark" alt="stats" width="375" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostbusterpopeye&theme=dark" alt="streak" width="400" />
+  <a href="http://kongming13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:alayubisultan1@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### About
+
+Focusing on full-stack web development and creative visual design. Currently developing visitor systems for Polije and exploring 3D workflows.
+
+* **Tech:** PHP, MySQL, JavaScript, Git
+* **Design:** UI/UX, Motion Graphics, Blender, Photoshop
+
+---
+
+### Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghostbusterpopeye&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,ps,blender&theme=dark" />
 </p>
-
 
 ---
 
-## Contribution Snake
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghostbusterpopeye&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostbusterpopeye&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Alayubi%20Sultan&color=000000" alt="Created By">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000" alt="License">
-  <img src="https://komarev.com/ghpvc/?username=Ghostbusterpopeye&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile view counter">
+  <img src="https://img.shields.io/static/v1?style=flat-square&label=Created%20By&message=Alayubi%20Sultan&color=000000" />
+  <img src="https://img.shields.io/static/v1?style=flat-square&label=License&message=MIT&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Ghostbusterpopeye&label=Views&color=000000&style=flat-square" />
 </p>
-

@@ -66,8 +66,8 @@ Hi, I'm Alayubi Sultan, an Informatics Engineering student from Indonesia ğŸ‡®ğŸ
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Alayubi%20Sultan&color=000000">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000">
-  <img src="https://img.shields.io/komarev.com/ghpvc/?username=Ghostbusterpopeye&label=Profile%20Views&color=000000&style=flat" alt="Profile view counter" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Alayubi%20Sultan&color=000000" alt="Created By">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000" alt="License">
+  <img src="https://komarev.com/ghpvc/?username=Ghostbusterpopeye&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile view counter">
 </p>
 

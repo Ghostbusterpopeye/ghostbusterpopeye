@@ -11,7 +11,7 @@
 
 ### About
 
-Focusing on full-stack web development and creative visual design. Currently developing visitor systems for Polije and exploring 3D workflows.
+Focusing on full-stack web development and creative visual design, I am currently studying at Polije and exploring 3D workflows.
 
 * **Tech:** Laravel, Flutter, PHP, MySQL, JavaScript, Git
 * **Design:** UI/UX, Motion Graphics, Blender, Photoshop
